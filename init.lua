@@ -1,0 +1,10 @@
+require("config.lazy")
+require("config.colorscheme")
+
+require("plugins.plugins")
+require("plugins.colors")
+require("plugins.dashboard")
+require("plugins.nvim-cmp")
+require("plugins.telescope")
+require("plugins.treesitter")
+require("plugins.which-key")
